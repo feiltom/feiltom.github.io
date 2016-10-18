@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Htaccess Redirection domaine vers repertoire 
+title: Htaccess redirection domaine vers repertoire 
 subtitle: Exemple avec un NDD imaginaire
 ---
     
