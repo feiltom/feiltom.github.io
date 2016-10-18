@@ -3,7 +3,8 @@ layout: post
 title: Htaccess Redirection domaine vers repertoire 
 subtitle: Exemple avec un NDD imaginaire
 ---
-RewriteEngine on
+    
+    RewriteEngine on
     RewriteCond %{HTTP_HOST} ^(www.)?feiltom.fr$
     RewriteCond %{REQUEST_URI} !^/feiltom_fr/
     RewriteCond %{REQUEST_FILENAME} !-f
